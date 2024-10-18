@@ -1,6 +1,11 @@
 #inizialization
 import sys
 
+#комментарий для проверки работы гита
+<<<<<<< Updated upstream
+=======
+#bugFix
+>>>>>>> Stashed changes
 
 #main func
 print("esc = выход(оператор) \n"
