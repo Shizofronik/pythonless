@@ -3,6 +3,10 @@ import sys
 
 #to master
 
+#комментарий для проверки работы гита
+
+#bugFix
+
 #main func
 print("esc = выход(оператор) \n"
       "операции +, - \n"
