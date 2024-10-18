@@ -1,6 +1,8 @@
 #inizialization
 import sys
 
+
+#main func
 print("esc = выход(оператор) \n"
       "операции +, - \n"
       "1 строчка - 1 слагаемое")
