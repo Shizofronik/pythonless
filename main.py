@@ -1,6 +1,7 @@
 #inizialization
 import sys
 
+#to master
 
 #main func
 print("esc = выход(оператор) \n"
