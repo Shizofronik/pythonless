@@ -1,4 +1,7 @@
-print("esc = выход \n"
+#inizialization
+import sys
+
+print("esc = выход(оператор) \n"
       "операции +, - \n"
       "1 строчка - 1 слагаемое")
 
@@ -6,6 +9,9 @@ print("Введите слагаемое:")
 first = input()
 print("Введите оператор:")
 operator = input()
+if operator == "esc":
+    sys.exit("Завершено")
+
 print("Введите слагаемое:")
 second = input()
 
